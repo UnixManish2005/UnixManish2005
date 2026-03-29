@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Manishankar Dey</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer;MLOps+Engineer;AI+Trainer;Building+Real-World+ML+Systems;FastAPI+%7C+Docker+%7C+AWS&center=true&width=500&height=45">
+</p>
 
 <h1 align="center">🚀 AI / ML Engineer | Data Scientist</h1>
 <p align="center">
