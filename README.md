@@ -1,5 +1,5 @@
 
-<h1 align="center"> 0-0 Hi, I'm Manishankar Dey</h1>
+<h1 align="center">🙋 Hi, I'm Manishankar Dey 0-0</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer;MLOps+Engineer;AI+Trainer+at+Nirmaan;Fraud+Detection+Expert;RAG+Application+Builder;FastAPI+%7C+Docker+%7C+AWS&center=true&width=600&height=45&color=00F7FF&vCenter=true&size=22">
